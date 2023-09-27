@@ -1,0 +1,22 @@
+2023-09-28 02:27:30.493 | SUCCESS  | __main__:initializeDatabase:16 - Logging file created successfully
+2023-09-28 02:27:30.497 | SUCCESS  | __main__:initializeDatabase:32 - Database file created successfully
+2023-09-28 02:27:30.499 | SUCCESS  | __main__:initializeDatabase:37 - Database opened successfully
+2023-09-28 02:27:30.500 | INFO     | __main__:initializeDatabase:44 - Attempting to create tables
+2023-09-28 02:27:30.502 | SUCCESS  | __main__:create_table:28 - Table 'categories' created successfully
+2023-09-28 02:27:30.502 | SUCCESS  | __main__:create_table:28 - Table 'lists' created successfully
+2023-09-28 02:27:30.503 | SUCCESS  | __main__:create_table:28 - Table 'tasks' created successfully
+2023-09-28 02:27:30.503 | SUCCESS  | __main__:create_table:28 - Table 'priorities' created successfully
+2023-09-28 02:27:30.504 | SUCCESS  | __main__:create_table:28 - Table 'statuses' created successfully
+2023-09-28 02:27:30.714 | SUCCESS  | __main__:initializeDatabase:95 - Tables created successfully
+2023-09-28 02:27:30.715 | INFO     | __main__:initializeDatabase:102 - Attempting to insert into priorities table
+2023-09-28 02:27:30.858 | SUCCESS  | __main__:initializeDatabase:137 - Value 'Low' inserted to priorities table successfully
+2023-09-28 02:27:31.113 | SUCCESS  | __main__:initializeDatabase:137 - Value 'Medium' inserted to priorities table successfully
+2023-09-28 02:27:31.238 | SUCCESS  | __main__:initializeDatabase:137 - Value 'Hard' inserted to priorities table successfully
+2023-09-28 02:27:31.239 | SUCCESS  | __main__:initializeDatabase:140 - Values inserted successfully
+2023-09-28 02:27:31.239 | INFO     | __main__:initializeDatabase:147 - Attempting to insert into statuses table
+2023-09-28 02:27:31.516 | SUCCESS  | __main__:initializeDatabase:198 - Value 'To Do' inserted to statuses table successfully
+2023-09-28 02:27:31.693 | SUCCESS  | __main__:initializeDatabase:198 - Value 'In Progress' inserted to statuses table successfully
+2023-09-28 02:27:31.827 | SUCCESS  | __main__:initializeDatabase:198 - Value 'Completed' inserted to statuses table successfully
+2023-09-28 02:27:31.949 | SUCCESS  | __main__:initializeDatabase:198 - Value 'Archived' inserted to statuses table successfully
+2023-09-28 02:27:32.094 | SUCCESS  | __main__:initializeDatabase:198 - Value 'Deleted' inserted to statuses table successfully
+2023-09-28 02:27:32.094 | SUCCESS  | __main__:initializeDatabase:201 - Values inserted successfully
